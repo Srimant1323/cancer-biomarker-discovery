@@ -172,4 +172,4 @@ To run locally: `pip install -r requirements.txt`, then open the notebook with J
 
 ## Author
 
-YOUR NAME | [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+SRIMANT BHARDWAJ| [LinkedIn](https://www.linkedin.com/in/srimant-bhardwaj-13s23a/)
